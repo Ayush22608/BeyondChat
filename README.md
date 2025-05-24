@@ -1,3 +1,6 @@
+# Live Link
+[BeyondChat Live]([https://example.com](https://beyond-chat-z5ln.vercel.app/conversations))
+
 # BeyondChats Admin Panel
 
 A modern customer support and chatbot management platform inspired by Intercom. This project aims to provide a beautiful and intuitive interface for managing customer conversations and support tickets.
