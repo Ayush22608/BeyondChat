@@ -1,5 +1,5 @@
 # Live Link
-[BeyondChat Live]([https://example.com](https://beyond-chat-z5ln.vercel.app/conversations))
+[BeyondChat Live](https://beyond-chat-z5ln.vercel.app/conversations)
 
 # BeyondChats Admin Panel
 
