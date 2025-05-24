@@ -34,10 +34,12 @@ const customers = [
   },
 ]
 
+type Customer = typeof customers[number];
+
 export default function CustomersPage() {
   const [modalOpen, setModalOpen] = useState(false);
   const [modalType, setModalType] = useState<'add' | 'view' | null>(null);
-  const [selectedCustomer, setSelectedCustomer] = useState(null);
+  const [selectedCustomer, setSelectedCustomer] = useState<Customer | null>(null);
   const [search, setSearch] = useState('');
 
   return (
